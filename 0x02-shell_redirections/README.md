@@ -1,0 +1,1 @@
+echo prints files to the output
